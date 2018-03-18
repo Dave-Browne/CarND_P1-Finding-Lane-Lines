@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-#**Finding Lane Lines on the Road** 
+# Finding Lane Lines on the Road
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 <img src="laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
@@ -8,12 +7,12 @@ When we drive, we use our eyes to decide where to go.  The lines on the road tha
 
 In this project you will detect lane lines in images using Python and OpenCV.  OpenCV means "Open-Source Computer Vision", which is a package that has many useful tools for analyzing images.  
 
-###Objective
+### Objective
 Using video footage as input, use canny edge detection and hough transforms to detect the road lane lines. Overlay the detected lines on the video.
 
 git clone https://github.com/udacity/CarND-LaneLines-P1
 
-###Results
+### Results
 For a description of the code used please see `Report.html`. The output images and videos are as follows: 
 
 Images - see `test_images` folder
